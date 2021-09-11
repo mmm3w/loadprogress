@@ -1,4 +1,4 @@
-package com.mitsuki.loadprogress
+package com.mitsuki.armory.loadprogress
 
 import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
 import io.reactivex.rxjava3.core.Observable
