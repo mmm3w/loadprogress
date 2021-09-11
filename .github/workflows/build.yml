@@ -50,7 +50,7 @@ jobs:
       - name: Checks-out self
         uses: actions/checkout@v2
         with:
-          path: httprookie
+          path: loadprogress
 
       - run: echo "include ':loadprogress'" > settings.gradle
       - run: chmod +x ./gradlew
